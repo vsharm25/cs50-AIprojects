@@ -14,7 +14,6 @@ Finds the shortest path between two actors using Breadth-First Search (BFS), bas
 - State space search
 
 ### How to run
-### How to run
 Run the following command in your terminal:
 
     python degrees.py large
